@@ -1,5 +1,4 @@
-# cs533-dqn
-
+# Implementation of distributed Deep Q Networks on Cart-Pole benchmark based on Ra
 code structure:
 ![distributed DQN](https://github.com/linqq19/cs533-dqn/assets/54255402/a345ff2e-0870-4256-8110-56bfb2751ca5)
 
