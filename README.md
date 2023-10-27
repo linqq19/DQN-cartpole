@@ -4,9 +4,10 @@
 
 ![1698421542843](https://github.com/linqq19/DQN-cartpole/assets/54255402/23ca577f-2031-402b-ac64-f05f9e3e9227)
 
-# Implementation of distributed Deep Q Networks on Cart-Pole benchmark based on Ra
+# Implementation of distributed Deep Q Networks on Cart-Pole benchmark based on Ray：
 
 code structure:
+
 ![distributed DQN](https://github.com/linqq19/cs533-dqn/assets/54255402/a345ff2e-0870-4256-8110-56bfb2751ca5)
 
  DQN with a replay buffer and target network:
