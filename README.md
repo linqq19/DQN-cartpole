@@ -10,7 +10,7 @@ code structure:
 
 ![distributed DQN](https://github.com/linqq19/cs533-dqn/assets/54255402/a345ff2e-0870-4256-8110-56bfb2751ca5)
 
- DQN with a replay buffer and target network:
+ Learning performance of DQN with a replay buffer and target network:
 
  
 ![image](https://github.com/linqq19/cs533-dqn/assets/54255402/4c329c63-bc7c-401c-b325-618fe23cde24)
