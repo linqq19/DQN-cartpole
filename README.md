@@ -1,4 +1,4 @@
-# Implementation of Q-learning and SARSA on frozen lake environmeny:
+# Implementation of Q-learning and SARSA on frozen lake environment:
 
 ![1698421507925](https://github.com/linqq19/DQN-cartpole/assets/54255402/3c7301ce-67b5-4ed4-ad4c-0ddf119cd4b6)
 
